@@ -1,3 +1,3 @@
 # Arduino-Blackjack
 Blackjack game simulated using Arduino UNO, implementing hardware interrupts, timers, a dice LED matrix and 
-logic operations based with pin wiring/configuration.
+logic operations based with pin wiring/configuration. Made with Emad Ahmed, Natasha Wall
